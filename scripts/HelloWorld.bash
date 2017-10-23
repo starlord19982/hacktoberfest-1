@@ -1,6 +1,7 @@
 #!/bin/bash
-# By David Cabezas 
-# github.com/dcabezas98
+# language BASH
+# By Gadila Shashank  Reddy
+# github.com/gadilashashank
 
 
-printf "Hello World!\n"
+echo Hello World!
